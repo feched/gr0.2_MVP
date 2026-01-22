@@ -18,4 +18,4 @@
 5) Запустите файл main.py
 
 ## Спасибо
-Telegram-канал: @workshop_on_Grisha
+Telegram-канал: [@workshop_on_Grisha](https://t.me/workshop_on_Grisha)
