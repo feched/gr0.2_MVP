@@ -1,0 +1,14 @@
+# Телеграм
+python-telegram-bot==22.5
+
+# для работы с мл
+transformers==4.38.2
+torch==2.1.2+cu118
+
+accelerate==0.27.2
+tokenizers==0.15.2
+safetensors==0.7.0
+huggingface-hub==0.36.0
+
+# Математика
+numpy==1.24.4
