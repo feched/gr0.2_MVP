@@ -12,10 +12,12 @@
 ## Установка:
 
 1) Скопируйте репозиторий
-2) Добавьте собственный датасет
-3) В файле config.py напишите свой системный промпт
-4) В файле main.py вставте свой токен из BotFather
-5) Запустите файл main.py
+2) скачайте все зависимости pip install -r requirements.txt
+3) pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+4) Добавьте собственный датасет в папку data
+5) В файле config.py напишите свой системный промпт
+6) В файле main.py вставте свой токен из BotFather
+7) Запустите файл main.py
 
 ## Спасибо
 Telegram-канал: [@workshop_on_Grisha](https://t.me/workshop_on_Grisha)
